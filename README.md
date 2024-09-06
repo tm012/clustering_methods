@@ -1,6 +1,8 @@
 # clustering_methods
 Hierarchical Clustering and Multi-dimensional Scaling in R
 
+https://tm012.shinyapps.io/Clustering_Methods_R/
+
 Options from the tool: 
 
 1. Choose CSV File - Distance Matrix :  The user will upload a distance matrix. Please look into this link to learn about the distance matrix (https://www.displayr.com/what-is-a-distance-matrix/). The matrix should be symmetric. 
